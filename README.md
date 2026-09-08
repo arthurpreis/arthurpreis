@@ -1,7 +1,7 @@
 ## Hello world
 
 BSc. Physics Engineer, M.Sc Astrophysicist, ASEP Systems Engineer.
-Currently doing an Ausbildung as SAP Developer at (DCI)[https://digitalcareerinstitute.org].
+Currently doing an Ausbildung as SAP Developer at [DCI](https://digitalcareerinstitute.org).
 
 ## Tech Stack
 ### Programming languages
