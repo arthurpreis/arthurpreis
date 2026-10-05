@@ -15,11 +15,14 @@ Currently doing an Ausbildung as SAP Developer at [DCI](https://digitalcareerins
 ### Hard Skills
 - Computer modeling & simulations
 - FEM
+- Systems Engineering
 - CAD
 - Instrumentation design
-- SPICE
 - AI Spec-Driven Development
-        
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/arthur-reis-physics/)
+- [ORCID](https://orcid.org/0000-0002-6682-5457)
 <!--
 **arthurpreis/arthurpreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
