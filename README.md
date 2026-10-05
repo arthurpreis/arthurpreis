@@ -20,7 +20,7 @@ Currently doing an Ausbildung as SAP Developer at [DCI](https://digitalcareerins
 - Instrumentation design
 - AI Spec-Driven Development
 
-### Links
+## Links
 - [LinkedIn](https://www.linkedin.com/in/arthur-reis-physics/)
 - [ORCID](https://orcid.org/0000-0002-6682-5457)
 <!--
